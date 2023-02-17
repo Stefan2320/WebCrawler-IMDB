@@ -1,0 +1,187 @@
+D:\An3Sem2\IP\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe.config
+D:\An3Sem2\IP\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe
+D:\An3Sem2\IP\ProiectIp\ProiectIp\bin\Debug\ProiectIp.pdb
+D:\An3Sem2\IP\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.AssemblyReference.cache
+D:\An3Sem2\IP\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Form1.resources
+D:\An3Sem2\IP\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Properties.Resources.resources
+D:\An3Sem2\IP\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.GenerateResource.cache
+D:\An3Sem2\IP\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.CoreCompileInputs.cache
+D:\An3Sem2\IP\ProiectIp\ProiectIp\obj\Debug\ProiectIp.exe
+D:\An3Sem2\IP\ProiectIp\ProiectIp\obj\Debug\ProiectIp.pdb
+D:\An3Sem2\IP\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormComedy.resources
+D:\An3Sem2\IP\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormDrama.resources
+D:\An3Sem2\IP\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormHorror.resources
+D:\An3Sem2\IP\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormRomance.resources
+D:\An3Sem2\IP\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormScifi.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe.config
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\Filter.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\WebCrawler.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\Filter.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\RenderMovieList.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\WebCrawler.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Form1.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormComedy.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormDrama.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormHorror.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormRomance.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormScifi.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Properties.Resources.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.GenerateResource.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.CopyComplete
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.exe
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe.config
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\bin\Debug\Filter.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\bin\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\bin\Debug\WebCrawler.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\bin\Debug\Filter.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\bin\Debug\RenderMovieList.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\bin\Debug\WebCrawler.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Form1.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormComedy.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormDrama.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormHorror.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormRomance.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormScifi.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Properties.Resources.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.GenerateResource.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.CopyComplete
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.exe
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.pdb
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe.config
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.pdb
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\Filter.dll
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\RenderMovieList.dll
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\WebCrawler.dll
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\Filter.pdb
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\RenderMovieList.pdb
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\WebCrawler.pdb
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csprojAssemblyReference.cache
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Form1.resources
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormComedy.resources
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormDrama.resources
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormHorror.resources
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormRomance.resources
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormScifi.resources
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Properties.Resources.resources
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.GenerateResource.cache
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.CoreCompileInputs.cache
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.CopyComplete
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.exe
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.pdb
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Delia\Desktop\Proiect IP\ProiectIp\ProiectIp\ProiectIp\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Form1.resources
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormComedy.resources
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormDrama.resources
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormHorror.resources
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormRomance.resources
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormScifi.resources
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Properties.Resources.resources
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.GenerateResource.cache
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.exe
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe.config
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\Filter.dll
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\WebCrawler.dll
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\Filter.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\RenderMovieList.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\WebCrawler.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.CopyComplete
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe.config
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.pdb
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\Filter.dll
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\RenderMovieList.dll
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\WebCrawler.dll
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\Filter.pdb
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\RenderMovieList.pdb
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\WebCrawler.pdb
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csprojAssemblyReference.cache
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Form1.resources
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormComedy.resources
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormDrama.resources
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormHorror.resources
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormRomance.resources
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormScifi.resources
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Properties.Resources.resources
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.GenerateResource.cache
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.CoreCompileInputs.cache
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.CopyComplete
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.exe
+C:\Users\Delia\Desktop\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.pdb
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe.config
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.pdb
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\Filter.dll
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\RenderMovieList.dll
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\WebCrawler.dll
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\HtmlAgilityPack.dll
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\Filter.pdb
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\RenderMovieList.pdb
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\WebCrawler.pdb
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\HtmlAgilityPack.pdb
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\bin\Debug\HtmlAgilityPack.xml
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.AssemblyReference.cache
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Form1.resources
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormComedy.resources
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormDrama.resources
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormHorror.resources
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormRomance.resources
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormScifi.resources
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Properties.Resources.resources
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.GenerateResource.cache
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.CoreCompileInputs.cache
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.exe
+D:\An3Sem2\IP\WebCrawler\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Form1.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormComedy.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormDrama.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormHorror.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormRomance.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Forms.FormScifi.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.Properties.Resources.resources
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.GenerateResource.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.exe
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe.config
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.exe
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\bin\Debug\ProiectIp.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\bin\Debug\Filter.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\bin\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\bin\Debug\WebCrawler.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\bin\Debug\Filter.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\bin\Debug\RenderMovieList.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\bin\Debug\WebCrawler.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\ProiectIp\ProiectIp\ProiectIp\obj\Debug\ProiectIp.csproj.CopyComplete

@@ -1,0 +1,27 @@
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\Filter\Filter\obj\Debug\Filter.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\Filter\Filter\obj\Debug\Filter.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\Filter\Filter\bin\Debug\Filter.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\Filter\Filter\bin\Debug\Filter.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\Filter\Filter\bin\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\Filter\Filter\bin\Debug\RenderMovieList.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\Filter\Filter\obj\Debug\Filter.csproj.CopyComplete
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\Filter\Filter\obj\Debug\Filter.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\Filter\Filter\obj\Debug\Filter.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\Filter\Filter\bin\Debug\Filter.dll
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\Filter\Filter\bin\Debug\Filter.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\Filter\Filter\bin\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\Filter\Filter\bin\Debug\RenderMovieList.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\Filter\Filter\obj\Debug\Filter.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\Filter\Filter\obj\Debug\Filter.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\Filter\Filter\obj\Debug\Filter.csproj.CopyComplete
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\Filter\Filter\obj\Debug\Filter.dll
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\Filter\Filter\obj\Debug\Filter.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\Filter\Filter\bin\Debug\Filter.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\Filter\Filter\bin\Debug\Filter.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\Filter\Filter\bin\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\Filter\Filter\bin\Debug\RenderMovieList.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\Filter\Filter\obj\Debug\Filter.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\Filter\Filter\obj\Debug\Filter.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\Filter\Filter\obj\Debug\Filter.csproj.CopyComplete
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\Filter\Filter\obj\Debug\Filter.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\Filter\Filter\obj\Debug\Filter.pdb

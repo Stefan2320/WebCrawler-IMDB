@@ -1,0 +1,18 @@
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\RenderMovieList\RenderMovieList\bin\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\RenderMovieList\RenderMovieList\bin\Debug\RenderMovieList.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\RenderMovieList\RenderMovieList\obj\Debug\RenderMovieList.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\RenderMovieList\RenderMovieList\obj\Debug\RenderMovieList.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\RenderMovieList\RenderMovieList\obj\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\RenderMovieList\RenderMovieList\obj\Debug\RenderMovieList.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\RenderMovieList\RenderMovieList\obj\Debug\RenderMovieList.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\RenderMovieList\RenderMovieList\obj\Debug\RenderMovieList.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\RenderMovieList\RenderMovieList\obj\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\RenderMovieList\RenderMovieList\obj\Debug\RenderMovieList.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\RenderMovieList\RenderMovieList\bin\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\WebCrawler\RenderMovieList\RenderMovieList\bin\Debug\RenderMovieList.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\RenderMovieList\RenderMovieList\bin\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\RenderMovieList\RenderMovieList\bin\Debug\RenderMovieList.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\RenderMovieList\RenderMovieList\obj\Debug\RenderMovieList.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\RenderMovieList\RenderMovieList\obj\Debug\RenderMovieList.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\RenderMovieList\RenderMovieList\obj\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\RenderMovieList\RenderMovieList\obj\Debug\RenderMovieList.pdb

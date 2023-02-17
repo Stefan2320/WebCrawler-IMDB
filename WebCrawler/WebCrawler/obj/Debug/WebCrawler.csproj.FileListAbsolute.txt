@@ -1,0 +1,65 @@
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\WebCrawler\WebCrawler\bin\Debug\WebCrawler.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\WebCrawler\WebCrawler\bin\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\WebCrawler\WebCrawler\bin\Debug\RenderMovieList.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CopyComplete
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\WebCrawler\WebCrawler\obj\Debug\WebCrawler.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\WebCrawler\WebCrawler\bin\Debug\WebCrawler.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\WebCrawler\WebCrawler\bin\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\WebCrawler\WebCrawler\bin\Debug\RenderMovieList.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CopyComplete
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\WebCrawler\WebCrawler\obj\Debug\WebCrawler.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP\ProiectIP_DLLs\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
+C:\Users\Delia\Desktop\Proiect IP\WebCrawler\WebCrawler\bin\Debug\WebCrawler.dll
+C:\Users\Delia\Desktop\Proiect IP\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Users\Delia\Desktop\Proiect IP\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Delia\Desktop\Proiect IP\WebCrawler\WebCrawler\bin\Debug\RenderMovieList.dll
+C:\Users\Delia\Desktop\Proiect IP\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Delia\Desktop\Proiect IP\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Delia\Desktop\Proiect IP\WebCrawler\WebCrawler\bin\Debug\RenderMovieList.pdb
+C:\Users\Delia\Desktop\Proiect IP\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojAssemblyReference.cache
+C:\Users\Delia\Desktop\Proiect IP\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Delia\Desktop\Proiect IP\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CopyComplete
+C:\Users\Delia\Desktop\Proiect IP\WebCrawler\WebCrawler\obj\Debug\WebCrawler.dll
+C:\Users\Delia\Desktop\Proiect IP\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
+C:\Users\Delia\Desktop\WebCrawler\WebCrawler\WebCrawler\bin\Debug\WebCrawler.dll
+C:\Users\Delia\Desktop\WebCrawler\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Users\Delia\Desktop\WebCrawler\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Delia\Desktop\WebCrawler\WebCrawler\WebCrawler\bin\Debug\RenderMovieList.dll
+C:\Users\Delia\Desktop\WebCrawler\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Delia\Desktop\WebCrawler\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Delia\Desktop\WebCrawler\WebCrawler\WebCrawler\bin\Debug\RenderMovieList.pdb
+C:\Users\Delia\Desktop\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojAssemblyReference.cache
+C:\Users\Delia\Desktop\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Delia\Desktop\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CopyComplete
+C:\Users\Delia\Desktop\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.dll
+C:\Users\Delia\Desktop\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
+D:\An3Sem2\IP\WebCrawler\WebCrawler\WebCrawler\bin\Debug\WebCrawler.dll
+D:\An3Sem2\IP\WebCrawler\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+D:\An3Sem2\IP\WebCrawler\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.dll
+D:\An3Sem2\IP\WebCrawler\WebCrawler\WebCrawler\bin\Debug\RenderMovieList.dll
+D:\An3Sem2\IP\WebCrawler\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.pdb
+D:\An3Sem2\IP\WebCrawler\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.xml
+D:\An3Sem2\IP\WebCrawler\WebCrawler\WebCrawler\bin\Debug\RenderMovieList.pdb
+D:\An3Sem2\IP\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.AssemblyReference.cache
+D:\An3Sem2\IP\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+D:\An3Sem2\IP\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.dll
+D:\An3Sem2\IP\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\WebCrawler\WebCrawler\obj\Debug\WebCrawler.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\WebCrawler\WebCrawler\bin\Debug\WebCrawler.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\WebCrawler\WebCrawler\bin\Debug\RenderMovieList.dll
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\WebCrawler\WebCrawler\bin\Debug\RenderMovieList.pdb
+C:\Users\Gabi\Desktop\Facultate\IP\ProiectIP-versiuni\WebCrawler - v4\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CopyComplete
